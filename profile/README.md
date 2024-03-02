@@ -14,14 +14,14 @@ Estamos entusiasmados em tê-lo(a) conosco enquanto colaboramos e impulsionamos 
 
 ### 📌  Colabordores: 
 
-[Adriano Allexander](https://www.linkedin.com/in/adrianoallexander/) 
+- [Adriano Allexander](https://www.linkedin.com/in/adrianoallexander/) 
 
-[Bárbara Barbato](https://www.linkedin.com/in/b%C3%A1rbara-barbato-de-oliveira-1816ab280/)  
+- [Bárbara Barbato](https://www.linkedin.com/in/b%C3%A1rbara-barbato-de-oliveira-1816ab280/)  
 
-[Isabela Noronha](https://www.linkedin.com/in/isabela-noronha-934311235/)  
+- [Isabela Noronha](https://www.linkedin.com/in/isabela-noronha-934311235/)  
 
-[Paulo Marcena](https://www.linkedin.com/in/paulo-marcena-b4a26a258/)  
+- [Paulo Marcena](https://www.linkedin.com/in/paulo-marcena-b4a26a258/)  
 
-[Thyago Retuci](https://www.linkedin.com/in/thyago-retuci-069306281/) 
+- [Thyago Retuci](https://www.linkedin.com/in/thyago-retuci-069306281/) 
 
-[Vitor Boos](https://www.linkedin.com/in/vitor-boos-teixeira-7b42bb2a6/)
+- [Vitor Boos](https://www.linkedin.com/in/vitor-boos-teixeira-7b42bb2a6/)
