@@ -1,8 +1,8 @@
 
 # Nome da organização 🌐 
 
-Seja muito bem-vindo(a) à organização dedicada ao projeto de extensão do grupo de estudantes da Faculdade [São Paulo Tech School](https://www.sptech.school/) !
-Estamos entusiasmados em tê-lo(a) conosco enquanto colaboramos e impulsionamos iniciativas significativas em prol do nosso grupo e da comunidade. Juntos, vamos explorar novas possibilidades e criar um impacto na comunidade positivo com o auxilio da tecnologia.
+Boas vindas à organização dedicada ao projeto de extensão do grupo de estudantes da Faculdade [São Paulo Tech School](https://www.sptech.school/) !
+Estamos entusiasmados em ter vocês conosco enquanto colaboramos e impulsionamos iniciativas significativas em prol do nosso grupo e da comunidade. Juntos, vamos explorar novas possibilidades e criar um impacto na comunidade positivo com o auxilio da tecnologia.
 
 <br>
 
