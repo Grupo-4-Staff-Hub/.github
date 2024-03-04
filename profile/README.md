@@ -42,4 +42,4 @@ Estamos entusiasmados em ter vocês conosco enquanto colaboramos e impulsionamos
 
 - chore: Tarefas relacionadas à construção do projeto ou à configuração de ferramentas.
 
-# Ex: [ feat ]: descrição(opcional: versão)
+#### Ex: [ feat ]: descrição(opcional: versão)
