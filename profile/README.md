@@ -12,7 +12,7 @@ Estamos entusiasmados em ter vocês conosco enquanto colaboramos e impulsionamos
 
 <br>
 
-### 📌  Colabordores: 
+### 📌  Colaboradores: 
 
 - [Adriano Allexander](https://www.linkedin.com/in/adrianoallexander/) 
 
